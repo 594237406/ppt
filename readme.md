@@ -1,4 +1,3 @@
-/* 先写总的配置 */
 title: 测试页面
 speaker: 李宏吉
 url: https://github.com/594237406/ppt
