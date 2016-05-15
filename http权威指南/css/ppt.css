@@ -1,0 +1,18 @@
+body{
+    background: #fff;
+    text-align: left;
+}
+
+.slide-wrapper{
+    text-align: left !important;
+}
+
+.center{
+    text-align: center;
+}
+
+img{
+    position: static !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+}
